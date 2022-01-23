@@ -1,2 +1,2 @@
-Custom Message: .
+Custom Message: Hi.
 Custom Link: 
