@@ -1,2 +1,2 @@
 Custom Message: V3,1 of All-In-One RanTools addon is out Use code bakeupdate for flat 30% OFF.
-Custom Link:https://blendermarket.com/products/rantools
+Custom Link:https://blendermarket.com/products/rantools .
