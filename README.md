@@ -1,2 +1,2 @@
-Custom Message: V3,1 of All-In-One RanTools addon is out Use code bakeupdate for flat 30% OFF.
-Custom Link: https://blendermarket.com/products/rantools
+Custom Message: Get Ultimate Value Bundle with 15 Addons at flat 25% OFF during Summer Sale.
+Custom Link: https://blendermarket.com/products/amandeep-ultimate-value-bundle
